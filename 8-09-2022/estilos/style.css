@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img-thumbnail{
+    width: 400px;
+    height: 400px;
+    max-height: 400px;
+}
+.row{
+    justify-content: space-around;
+}
